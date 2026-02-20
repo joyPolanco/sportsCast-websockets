@@ -1,0 +1,38 @@
+# Archivos compilados
+bin/
+obj/
+
+# Archivos de usuario
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Configuración local
+appsettings.Development.json
+node_modules/
+
+# Base de datos local
+*.mdf
+*.ldf
+
+# Paquetes
+packages/
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Carpeta de publicación
+publish/
+
+# Visual Studio
+.vs/
+
+.
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+.env.*.local
+.env
